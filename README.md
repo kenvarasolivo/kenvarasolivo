@@ -2,7 +2,7 @@
 
 ### Full-Stack & AI Software Engineer
 
-Aachen-based. I ship full-stack products where AI does real work — not demos. My focus: clean, typed architecture on the backend, structured LLM outputs in the middle, and a streaming UX up front that never makes you wait. Currently studying Computer Science at FH Aachen and looking for a mandatory internship (**Pflichtpraktikum**) as an AI software engineer.
+Aachen-based. I build full-stack products where AI does real work. My focus: clean, typed architecture on the backend, structured LLM outputs in the middle, and a responsive, streaming UX up front. Currently studying Computer Science at FH Aachen and looking for a mandatory internship (**Pflichtpraktikum**) as an AI software engineer.
 
 ---
 
@@ -57,7 +57,7 @@ Built to learn something new each time:
 
 - I speak German, English, and Indonesian, and I work comfortably across all three
 - I sweat the backend logic and the pixels equally — both ship or neither does
-- I'd rather put a real, working AI feature in users' hands than a polished demo
+- I care most about AI features that actually ship and get used
 - Always poking at a new tool or half-finished side project on the side
 
 ## 📭 Reach me
