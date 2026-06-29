@@ -16,10 +16,10 @@ Aachen-based. I build full-stack products where AI does real work. My focus: cle
 
 Built to learn something new each time:
 
-- **[CineScope](https://cinescope-mocha.vercel.app/)** — film analytics dashboard on top of the TMDB API
+- **[CineScope](https://cinescope-mocha.vercel.app/)** — film and games analytics dashboard on top of the TMDB and RAWG API
 - **[LaFerrari](https://la-ferrari-phi.vercel.app/)** — a WebGL/Three.js scene with orbit controls and live lighting
 - **[Kanagawa Wave](https://kanagawa-wave.vercel.app/)** — scrollytelling piece with scroll-scrubbed video and motion typography
-- **[Destination Intelligence](https://destination-intelligence.vercel.app/)** — geospatial dashboard mapping global travel patterns
+- **[Destination Intelligence](https://destination-intelligence.vercel.app/)** — a travel recommendation engine that live-ranks curated destinations to match your style
 
 ## ⚙️ My toolkit
 
