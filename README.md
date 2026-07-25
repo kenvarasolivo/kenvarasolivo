@@ -8,7 +8,11 @@ Aachen-based. I build full-stack products where AI does real work. My focus: cle
 
 ## 🔧 What I'm building right now
 
+- **[StackPilot](https://stackpilot-mu.vercel.app/)** — an agentic RAG platform that turns real documentation into cited, streamed tutorials: a `plan → retrieve → grade → write → verify` pipeline that refines its own searches and audits every citation against its source
 - **[Fluen](https://fluen-languages.vercel.app/)** — a language-learning SaaS combining an FSRS spaced-repetition engine, a comprehensible-input hub, and a live AI coach with token-streamed chat
+
+## 📦 Other projects
+
 - **[Align](https://align-engine.vercel.app/)** — an AI application optimizer: async FastAPI + React, Pydantic-enforced LLM outputs, a pgvector RAG pipeline, and a 94-test suite at 96% coverage
 - **FH Aachen Chatbot** — refactored a monolithic Vue view into modular composables and cut perceived latency with non-blocking streaming *(team project)*
 
