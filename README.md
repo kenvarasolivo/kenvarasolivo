@@ -8,22 +8,31 @@ Aachen-based. I build full-stack products where AI does real work. My focus: cle
 
 ## 🔧 What I'm building right now
 
-- **[StackPilot](https://stackpilot-mu.vercel.app/)** — an agentic RAG platform that turns real documentation into cited, streamed tutorials: a `plan → retrieve → grade → write → verify` pipeline that refines its own searches and audits every citation against its source
-- **[Fluen](https://fluen-languages.vercel.app/)** — a language-learning SaaS combining an FSRS spaced-repetition engine, a comprehensible-input hub, and a live AI coach with token-streamed chat
+- **[StackPilot](https://stackpilot-mu.vercel.app/)** — turns any documentation into a guided lesson: a `plan → retrieve → grade → write → verify` agent that researches, writes, and audits its own citations *(Next.js · FastAPI · Gemini · pgvector)*
+- **[Fluen](https://fluen-languages.vercel.app/)** — a language app that builds your flashcards and your reading, plus a chat coach that corrects you as you go *(Next.js · TypeScript · Supabase · Gemini)*
 
 ## 📦 Other projects
 
-- **[Align](https://align-engine.vercel.app/)** — an AI application optimizer: async FastAPI + React, Pydantic-enforced LLM outputs, a pgvector RAG pipeline, and a 94-test suite at 96% coverage
-- **FH Aachen Chatbot** — refactored a monolithic Vue view into modular composables and cut perceived latency with non-blocking streaming *(team project)*
+- **[Align](https://align-engine.vercel.app/)** — reads a CV against a job description, shows where the real skill gaps are, and drafts a cover letter that only claims what the CV backs up *(FastAPI · React · pgvector)*
+- **[Watchflow](https://watchflow-eta.vercel.app/)** — tracks the stocks you follow and refreshes itself every trading day, on its own *(Python · PostgreSQL · GitHub Actions · Next.js)*
+- **[DataCo](https://dataco-analysis.vercel.app/)** — 180,000 supply-chain orders you can slice any way you like, to see what's actually driving profit *(Python · pandas · React · Recharts)*
+- **FH Aachen Chatbot** — rebuilt a university chatbot's frontend with a 10-person team, so answers stream in as they're written instead of landing all at once *(Vue.js · Laravel · OpenAI)*
 
-## 🧪 Side projects & experiments
+## 🤝 Collaborations
+
+Built with and for someone else:
+
+- **[Fuji no Hana — VIP Karte](https://fujinohana-bonuskarte.vercel.app/)** — a loyalty card for a ramen restaurant: guests collect points at the counter, and the staff run the offers themselves without touching the code *(Next.js · TypeScript · Drizzle · Neon)*
+- **[AIESEC — Prospecting Pipeline](https://igta-prospecting-pipeline.vercel.app/)** — finds companies hiring around Aachen, digs out their real contact details, and hands the team a HubSpot-ready file in three minutes instead of an afternoon *(Python · GitHub Actions · HubSpot API)*
+
+## 🧪 Built for fun
 
 Built to learn something new each time:
 
-- **[CineScope](https://cinescope-mocha.vercel.app/)** — film and games analytics dashboard on top of the TMDB and RAWG API
-- **[LaFerrari](https://la-ferrari-phi.vercel.app/)** — a WebGL/Three.js scene with orbit controls and live lighting
-- **[Kanagawa Wave](https://kanagawa-wave.vercel.app/)** — scrollytelling piece with scroll-scrubbed video and motion typography
-- **[Destination Intelligence](https://destination-intelligence.vercel.app/)** — a travel recommendation engine that live-ranks curated destinations to match your style
+- **[CineScope](https://cinescope-mocha.vercel.app/)** — what's trending in film and games right now, pulled live from TMDB and RAWG and charted
+- **[LaFerrari](https://la-ferrari-phi.vercel.app/)** — a LaFerrari you can spin around in 3D, lit and animated in the browser
+- **[Kanagawa Wave](https://kanagawa-wave.vercel.app/)** — Hokusai's wave told as a scroll, with the video scrubbing as you move down the page
+- **[Destination Intelligence](https://destination-intelligence.vercel.app/)** — move a few sliders and it ranks 23 destinations against your travel style
 
 ## ⚙️ My toolkit
 
@@ -46,7 +55,9 @@ Built to learn something new each time:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
@@ -55,6 +66,7 @@ Built to learn something new each time:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 👤 A bit about me
